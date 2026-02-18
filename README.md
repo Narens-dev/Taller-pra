@@ -12,4 +12,5 @@ En el tercero:
 
 <img width="965" height="760" alt="image" src="https://github.com/user-attachments/assets/755a8d29-4524-4dbc-9086-b240f1ec3a2d" />
 
+Integrantes: David Santiago Prieto Beltran, Naren Santiago Rojas Sanchez
 
